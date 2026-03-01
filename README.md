@@ -6,6 +6,7 @@ Project structure:
 
 ECOTRACK/
 ├── 📂 backend/  
+
 │ ├── 📂 config/
 │ │ └── 📄 db.js # MongoDB Connection logic
 │ ├── 📂 controllers/
